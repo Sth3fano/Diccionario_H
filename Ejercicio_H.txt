@@ -1,5 +1,4 @@
-# Diccionario_H
-Practica_Terminal
+# Diccionario_H Practica_Terminal
 
 ha
 haba
